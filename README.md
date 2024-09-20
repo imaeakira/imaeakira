@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a engineer.
-- 📫 How to reach me: [LinkdIn - imaeakira](https://www.linkedin.com/in/%E6%9A%81-%E4%BB%8A%E6%B1%9F-51470617a/)
+- 📫 How to reach me: [LinkdIn - imaeakira](https://www.linkedin.com/in/akira-imae-51470617a/)
 <br>
 
 
