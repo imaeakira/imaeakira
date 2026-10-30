@@ -1,46 +1,10 @@
-<!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=imaeakira" />
-</div>
+## Akira Imae
 
+AIエンジニア @松尾研究所（業務委託）｜上下水道の建設コンサルタント（約10年）｜Kaggle Competitions Expert（銀メダル×2、いずれも個人）｜ZEN大学 1期生
 
-<!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+- LinkedIn: https://www.linkedin.com/in/akira-imae/
+- Kaggle: https://www.kaggle.com/imaeakira
 
-- 🧑‍💻 I'm a engineer.
-- 📫 How to reach me: [LinkdIn - imaeakira](https://www.linkedin.com/in/akira-imae-51470617a/)
-<br>
+仕事のコードと Kaggle の作業用のコードは非公開のリポジトリにあるため、ここには出ていません（Kaggle の解法は writeup で公開しています）。
 
-
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,python,docker" />
-<br>
-
-
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=imaeakira&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaeakira&theme=vue-dark&layout=compact" />
-</div>
-
-
-<!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+Skills: Python / 機械学習・生成AI（LLM）/ データ分析 / Docker / HTML・CSS
