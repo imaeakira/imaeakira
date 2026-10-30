@@ -7,6 +7,6 @@
 
 Links: [LinkedIn](https://www.linkedin.com/in/akira-imae/) / [Kaggle](https://www.kaggle.com/imaeakira)
 
-仕事のコードと Kaggle の作業用のコードは非公開のリポジトリにあるため、ここには出ていません（Kaggle の解法は writeup で公開しています）。
+仕事・Kaggle・個人のプロジェクトのコードは、どれも非公開のリポジトリにあるため、ここには出ていません（Kaggle の解法は writeup で公開しています）。
 
 Skills: Python / 機械学習・生成AI（LLM）/ データ分析 / Docker / HTML・CSS
